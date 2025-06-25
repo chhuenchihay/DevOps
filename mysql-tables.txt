@@ -1,0 +1,12 @@
+Tables_in_chhuenchihay-db
+bookings
+failed_jobs
+favorites
+migrations
+password_reset_tokens
+payments
+personal_access_tokens
+reviews
+terrain_images
+terrains
+users
